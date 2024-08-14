@@ -1,5 +1,5 @@
 # Frontend Mentor - NFT preview card component
-
+You can see the result in the following link: https://nft-preview-card-component-sepia-sigma.vercel.app
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
